@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGL3MK6VMgPuXYmo4sUeT3ljSB5HfKB13U8OjXfAz9DPMqD8f9");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+  }
+
+p {
+  font-size: 22px;
+  }
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+  }
+
+input[type="submit"]{
+  color: white;
+  background: red;
+  }
+
+img {
+  border-radius: 60px/60px;
+  height: 300px;
+  }
